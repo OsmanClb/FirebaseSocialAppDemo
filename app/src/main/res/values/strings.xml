@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FirebaseSocialApp</string>
+    <string name="email">E-mail</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign in</string>
+    <string name="login">Login</string>
+    <string name="sign_inGoogle">Sign In Google</string>
+    <string name="sign_inEmail">Sign In Email</string>
+    <string name="search">Search</string>
+    <string name="logout">Logout</string>
+</resources>
